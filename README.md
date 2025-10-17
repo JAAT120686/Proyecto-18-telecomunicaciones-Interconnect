@@ -1,12 +1,14 @@
-# Proyecto P18
+# Proyecto P18: Telecomunicaciones Interconnect
 
-Descripción breve del proyecto P18 de ciencia de datos.
+Estudio de datos de clientes de telecomunicaciones para reducir la tasa de abandono.
 
 ## Objetivo
-Explicar el objetivo principal del análisis realizado en este proyecto.
+Desarrollar modelos para predecir el churn y mejorar la retención de clientes.
 
 ## Estructura
-- Notebooks y archivos de datos relacionados.
+- Notebooks de análisis
+- Archivos de datos de clientes
+- Reportes de retención
 
 ## Cómo ejecutar
 Abre el notebook principal y sigue las instrucciones.
