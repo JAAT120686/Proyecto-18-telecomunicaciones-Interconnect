@@ -1,4 +1,6 @@
 
+![Telecomunicaciones](https://www.telefonica.com/es/wp-content/uploads/sites/4/2025/05/dia-telecomunicaciones.jpg)
+
 # 📊 Proyecto 18: Análisis de Datos de Clientes de Telecomunicaciones
 
 ¡Bienvenido! Este proyecto explora y modela datos reales de clientes de una empresa de telecomunicaciones, con el objetivo de entender el comportamiento y predecir la tasa de abandono (churn).
