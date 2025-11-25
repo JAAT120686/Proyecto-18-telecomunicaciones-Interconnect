@@ -35,6 +35,18 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 
 ---
 
+## 🖼️ Ejemplos Visuales
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/JAAT120686/Proyecto-18-Telecom-Churn/main/example_churn_plot.png" alt="Gráfico de Churn" width="500">
+</p>
+
+<p align="center">
+	<img src="https://www.telefonica.com/es/wp-content/uploads/sites/4/2025/05/dia-telecomunicaciones.jpg" alt="Telecomunicaciones" width="500">
+</p>
+
+---
+
 ## ▶️ Cómo ejecutar
 1. Clona el repositorio
 2. Abre los notebooks en Jupyter
@@ -43,7 +55,7 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 ---
 
 ## 👤 Autor
-**Juan Ántonio Álvarez Trinidad**
+**Juan Antonio Álvarez Trinidad**
 
 ## 📅 Fecha
 **25 de noviembre de 2025**
