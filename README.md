@@ -1,8 +1,10 @@
 
+
 ![Telecomunicaciones](https://www.telefonica.com/es/wp-content/uploads/sites/4/2025/05/dia-telecomunicaciones.jpg)
 
 # 📊 Proyecto 18: Análisis de Datos de Clientes de Telecomunicaciones
 
+<br>
 ¡Bienvenido! Este proyecto explora y modela datos reales de clientes de una empresa de telecomunicaciones, con el objetivo de entender el comportamiento y predecir la tasa de abandono (churn).
 
 ---
@@ -22,8 +24,7 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter Notebook
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="24">
 
 ---
 
@@ -31,14 +32,6 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 - Identificación de variables clave para el abandono
 - Modelos de clasificación con métricas de precisión y recall
 - Visualizaciones interactivas y reportes claros
-
----
-
-## 🖼️ Ejemplo Visual
-
-![Gráfico de Churn](https://raw.githubusercontent.com/JAAT120686/Proyecto-18-Telecom-Churn/main/example_churn_plot.png)
-
-![Telecomunicaciones](https://www.telefonica.com/es/wp-content/uploads/sites/4/2025/05/dia-telecomunicaciones.jpg)
 
 ---
 
@@ -50,10 +43,10 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 ---
 
 ## 👤 Autor
-JAAT120686
+**Juan Ántonio Álvarez Trinidad**
 
 ## 📅 Fecha
-25 de noviembre de 2025
+**25 de noviembre de 2025**
 
 ---
 
