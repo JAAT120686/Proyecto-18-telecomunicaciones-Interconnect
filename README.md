@@ -48,7 +48,3 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 ## 🏁 Conclusiones del Proyecto
 
 El análisis realizado permitió identificar los principales factores que influyen en la tasa de abandono de clientes en telecomunicaciones. Los modelos predictivos desarrollados ofrecen herramientas útiles para anticipar el churn y diseñar estrategias de retención más efectivas. La integración de visualizaciones y reportes facilita la toma de decisiones basada en datos, contribuyendo a mejorar la satisfacción y fidelización de los clientes.
-
----
-
-¿Te interesa saber más? ¡Explora los notebooks y descubre cómo los datos pueden transformar la estrategia de una empresa!
