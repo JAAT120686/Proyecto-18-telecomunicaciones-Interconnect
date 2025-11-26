@@ -37,19 +37,7 @@ Desarrollar un análisis exploratorio y modelos predictivos para identificar pat
 
 ## 🖼️ Visualizacion
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/JAAT120686/Proyecto-18-Telecom-Churn/main/example_churn_plot.png" alt="Gráfico de Churn" width="500">
-</p>
 
-<p align="center">
-	<img src="https://www.telefonica.com/es/wp-content/uploads/sites/4/2025/05/dia-telecomunicaciones.jpg" alt="Telecomunicaciones" width="500">
-</p>
-
-
-<p align="center">
-  <img src="img/estadisticas_descriptivas.png" alt="Estadísticas descriptivas para variables numéricas" width="500">
-  <img src="img/distribucion_variable1.png" alt="Distribución de variable1" width="500">
-  <img src="img/distribucion_variable2.png" alt="Distribución de variable2" width="500">
   <img src="img/output.png" alt="Output gráfico 1" width="500">
   <img src="img/output1.png" alt="Output gráfico 2" width="500">
   <img src="img/output2.png" alt="Output gráfico 3" width="500">
